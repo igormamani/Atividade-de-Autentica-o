@@ -1,0 +1,1 @@
+[{"email":"raul@gmail.com","senha": 123 , "papel":"cliente"},{"email":"edu@gmail.com","senha": 12345, "papel":"cliente"},{"email":"eve@gmail.com","senha": 456456, "papel":"cliente"},{"email":"igor@gmail.com","senha": 12345545, "papel":"adminstrador"},{"email":"ldvxin.@gmail.com","senha": 908, "papel":"adminstrador"}]
