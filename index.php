@@ -36,12 +36,11 @@
                 <input type="email" id="email" class="form-control" name="email" aria-describedby="emailHelp" placeholder="Digte o E-mail">
 
                 <input type="password" id="senha" class="form-control" name="senha" placeholder="Digite a Senha">
-          <div class="campo">
-  					<label for="estado">Tipo</label>
-  					<select name="estado" id="estado">
-  						<option value="Cliente">Cliente</option>
-  						<option value="Admistrador">Admistrador</option>
-  					<select/>
+          <select name="admin" class="boxi"> 
+               <option value=""> Cargo </option>
+               <option value="cliente"> Cliente </option>
+               <option value="administrador"> Admin. </option>
+            </select>
   				</div>
 
                 <button class="btn-primary">Enviar</button>
